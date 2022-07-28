@@ -57,7 +57,7 @@ const Navbar = () => {
 
       {/* Hamburger */}
       <div onClick={handleClick} className='md:hidden z-10 cursor-pointer'>
-         
+        {/*  Opposite of nav(true), if true then show FaBars otherwise show FaTimes  */}
         {!nav ? <FaBars /> : <FaTimes />}
       </div>
 
