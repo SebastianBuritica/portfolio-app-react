@@ -17,13 +17,13 @@ const About = () => {
               <p>Hi. I'm Sebastian, nice to meet you. Please take a look around!</p>
             </div>
             <div>
-              <p>I am self taught FrontEnd developer who fell in love with technology
+              <p>I am self-taught FrontEnd developer who fell in love with technology
               and the future of the internet after learning about blockchain. I focus
-              on the React.js ecosystem including react native, the basics of Next.js,
-              state containers and the different styling libraries to build scalable UI 
-              and UX for any type of application adjusting to the client  request. 
+              on the React.js ecosystem including react native among other technologies  
+              and the different styling libraries to build scalable UI 
+              and UX for any type of application. 
               I want to grow as a proffesional in this field, I just need you, the reader and
-              hopefully recruiter, to provide me the chance to prove myself in your organization👨🏻‍💻.</p>  
+              hopefully recruiter, to provide me the chance to prove myself in your organization.</p>  
             </div>
           </div>
       </div>
