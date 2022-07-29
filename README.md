@@ -1,4 +1,5 @@
-![portfolio](https://user-images.githubusercontent.com/93333842/181816314-6a9c9229-0533-4729-a98b-47311d632490.png)
+![Screenshot 2022-07-29 at 15-45-55 React App](https://user-images.githubusercontent.com/93333842/181840670-ca76496f-b022-4d5b-8f06-1fe3b34dd96e.png)
+
 
 #[REACT JS PORTFOLIO]
 
