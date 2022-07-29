@@ -123,7 +123,7 @@ const Navbar = () => {
           <li className='w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#565f69]'>
             <a
               className='flex justify-between items-center w-full text-gray-300'
-              href='https://www.mediafire.com/file/ijwdwwu6um743wj/HojaDeVidaSebastianBuritica.pdf/file' target="_blank"
+              href='https://www.mediafire.com/file/8upz0p58din9ttg/HojaDeVidaSebastianBuritica_%25282%2529.pdf/file' target="_blank"
             >
               Resume <BsFillPersonLinesFill size={30} />
             </a>
