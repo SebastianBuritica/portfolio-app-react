@@ -1,5 +1,8 @@
+![portfolio](https://user-images.githubusercontent.com/93333842/181816314-6a9c9229-0533-4729-a98b-47311d632490.png)
 
-![REACT JS PORTFOLIO]
+#[REACT JS PORTFOLIO]
+
+This is my personal portfolio which was powered by react technologies, the styling was made using tailwind.css, completely functional, this is the v1, the site will be constantly updated with new technologies and new projects will be added as my developer journey grows.
 
 ## Available Scripts
 
